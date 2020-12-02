@@ -106,7 +106,7 @@ class Wps_Breaking_News_Admin_Page{
     public function setting_field_generator($args)
     {
         $options = get_option($this->db_option_name);
-        $wp_data_value = $options[$args['name']];
+	    $wp_data_value = isset($options[$args['name']]) ? $options[$args['name']] : '';
 
         //General attributes
         $required = '';
