@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Breaking News
  * Plugin URI:        https://wpshapers.com/
- * Description:       Manage and display a Breaking News ticker on your website. Adjust visual settings directly in the customizer, for more options visit Breaking News settings.
+ * Description:       Manage and display a Breaking News ticker on your website. Adjust visual settings directly in the customizer, for more options visit Breaking News settings. Make sure you have correctly set up timezones, you find them under Settings/General
  * Version:           1.0.0
  * Author:            Zsolt Revay G.
  * Author URI:        https://wpshapers.com/
