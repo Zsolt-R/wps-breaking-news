@@ -1,0 +1,26 @@
+.wps-bn-block{
+  display:block;
+  padding:12px;
+  color:var(--breaking-news-text-color,#000000);
+  background-color:var(--breaking-news-background-color,#f5f5f5);
+  z-index:999999;
+  position: relative;
+
+  .wps-bn-block__inner{
+    max-width:1200px;
+    margin:0 auto;
+  }
+
+  .wps-bn-block__intro{
+    font-weight:600;
+      margin-right:0.5em;
+  }
+
+  .wps-bn-block__title{
+    margin-right:0.5em;
+  }
+
+  .wps-bn-block__link{
+    color:var(--breaking-news-link-color,#eeee22);
+  }
+}
