@@ -8,7 +8,7 @@ Breaking News WordPress plugin
 
 == Usage ==
 
-Setup a breaking news ticker on every page of the website.
-Mark a post as Breaking news and set it's expiration date.
-Adjust the color scheme of the news ticker using the customizer
-Edit Breaking News: intro text from plugin options.
+* Setup a breaking news ticker on every page of the website.
+* Mark a post as Breaking news and set it's expiration date.
+* Adjust the color scheme of the news ticker using the customizer
+* Edit Breaking News: intro text from plugin options.
