@@ -7,6 +7,7 @@ Breaking News WordPress plugin
 3. Make sure the website timezone is set correctly
 
 == Usage ==
+
 Setup a breaking news ticker on every page of the website.
 Mark a post as Breaking news and set it's expiration date.
 Adjust the color scheme of the news ticker using the customizer
